@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mffugazike
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in programming, Web development, gaming and  the world of I.T
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML, CSS, python
